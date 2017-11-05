@@ -1,0 +1,5 @@
+node_modules
+tests
+reports
+screenshots
+selenium-debug.log
